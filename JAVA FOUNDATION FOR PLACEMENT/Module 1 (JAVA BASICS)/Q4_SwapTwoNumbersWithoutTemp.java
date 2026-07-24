@@ -1,4 +1,4 @@
-public class Q4_SwapTwoNumbers2 {
+public class Q4_SwapTwoNumbersWithoutTemp {
   public static void main(String[] args) {
     int a = 10;
     int b = 20;
