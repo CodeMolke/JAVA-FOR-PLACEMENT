@@ -10,7 +10,10 @@ public class Q31_FindFirstDigit {
     int thirdLastDigit = temp % 10;
     temp = temp / 10;
     int firstDigit = temp % 10;
-    System.out.println("First Digit : " + firstDigit);
+    System.out.println("First Digit       : " + firstDigit);
+    System.out.println("Second Last Digit : " + secondLastDigit);
+    System.out.println("Third Last Digit  : " + thirdLastDigit);
+    System.out.println("Last Digit        : " + lastDigit);
 
   }
 
